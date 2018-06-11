@@ -1,1 +1,9 @@
-div {float: left;}
+div {float: left;
+    position: relative;
+    outline: 2px solid orange;}
+
+nav {position: relative;}
+
+p{position: absolute;
+    margin-top: 20px;
+    margin-left: 30px;}
